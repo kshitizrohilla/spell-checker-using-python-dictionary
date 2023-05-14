@@ -56,4 +56,4 @@ for token in clean_tokens:
 if not(len(misspelled_words)):
   print("No misspelled words found!")
 else:
-  print("Potentially misspelled words:", misspelled_words)
+  print("Potentially misspelled words found:", misspelled_words)
