@@ -1,0 +1,2 @@
+#Spell Checker using Python Dictionary
+This project is a simple spell checker program written in Python. It allows you to check the spelling of words in a given text and provides suggestions for corrections if a word is misspelled.
